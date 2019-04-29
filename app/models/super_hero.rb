@@ -11,6 +11,6 @@ class SuperHero
   end
   
   def self.all 
-    @@super_heroes.all
+    @@super_heroes
   end 
 end
