@@ -9,6 +9,6 @@ class Team
   end
 
   def self.all
-     @@teams
+    @@teams
   end
 end
