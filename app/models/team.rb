@@ -10,6 +10,6 @@ class Team
   end
   
   def self.all 
-    
+    @@teams
   end 
 end
