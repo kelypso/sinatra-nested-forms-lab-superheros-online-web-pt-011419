@@ -1,5 +1,7 @@
 class Team
-  attr_reader 
+  attr_accessor :name, :motto 
+  
+  @@teams = []
   
   def initialize(args)
     
